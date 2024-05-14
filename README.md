@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Android Studio Kotlin&Java SE**
 
-- 💬 Ask me about **mobile development**
-
 - 📫 How to reach me **muhammetemir.erkut@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
