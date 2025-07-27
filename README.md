@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammet Emir Erkut</h1>
 <h3 align="center">A passionate Android developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Android Studio Kotlin&Java SE**
+- 🔭 I’m currently working on **Android Studio Jetpack Compse Kotlin**
 
 - 📫 How to reach me **muhammetemir.erkut@gmail.com**
 
