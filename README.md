@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Emir Erkut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1>
+<h1 align="center">Hi there, I'm Muhammet Emir Erkut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1>
 <h3 align="center">A Passionate Engineer from Türkiye</h3>
 
 <p align="center">
