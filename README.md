@@ -49,5 +49,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MuhammetEmirErkut/MuhammetEmirErkut/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </div>
