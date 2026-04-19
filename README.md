@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Emir Erkut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1>
-<h3 align="center">A Passionate Software & Computer Engineer from Türkiye</h3>
+<h3 align="center">A Passionate Engineer from Türkiye</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammetEmirErkut&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammetEmirErkut" />
